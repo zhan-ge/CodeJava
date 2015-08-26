@@ -1,4 +1,4 @@
-// Created by ZG on 15/7/4.
+package test.basics;// Created by ZG on 15/7/4.
 // 
 
 public class LotteryArray {

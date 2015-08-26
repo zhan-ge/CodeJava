@@ -1,4 +1,4 @@
-// Created by ZG on 15/6/29.
+package test.basics;// Created by ZG on 15/6/29.
 // 
 
 public class Factorial {

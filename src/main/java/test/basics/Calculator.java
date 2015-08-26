@@ -1,4 +1,4 @@
-// Created by ZG on 15/7/4.
+package test.basics;// Created by ZG on 15/7/4.
 // 线程的创建和运行
 
 //  创建一个名为Calculator的类，这个类要实现Runnable接口
